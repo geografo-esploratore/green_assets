@@ -1,3 +1,4 @@
 This is a list of the STATA .do files that are avaialbe in this subrepo:
-ENM_select_HH.do
+
+The file Enset_515 contains the stata regression commands to recreate the paper results in a .do file.
 
